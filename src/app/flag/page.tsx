@@ -82,8 +82,8 @@ export default function FlagPage() {
           if (e.key === 'Enter') {
             inputRefs.current[next.iso2]?.focus()
           }
+          playAudio(`/assets/country-mp3/${country.iso2}.mp3`)
         }
-        playAudio(`/assets/country-mp3/${country.iso2}.mp3`)
       } else {
         inputRefs.current[country.iso2]?.select()
         playAudio('/assets/mp3/error.mp3')
