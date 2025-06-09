@@ -273,6 +273,7 @@ export default function MapGame() {
                       )
                     }
 
+                    const isInGame = selectedCountries.find((item) => item.iso2 === country.iso2)
                     const isCorrect = found.includes(_.toUpper(country.iso2))
                     const isLastCorrect = lastCorrect && lastCorrect.iso2 === country.iso2
 
@@ -283,7 +284,13 @@ export default function MapGame() {
                         onClick={() => console.log(country)}
                         style={{
                           default: {
-                            fill: isLastCorrect ? '#cccc00' : isCorrect ? '#2ecc71' : '#aaa',
+                            fill: isInGame
+                              ? isLastCorrect
+                                ? '#cccc00'
+                                : isCorrect
+                                  ? '#2ecc71'
+                                  : '#aaa'
+                              : '#000000',
                             stroke: '#FFF',
                             strokeWidth: 0.2,
                             outline: 'none'

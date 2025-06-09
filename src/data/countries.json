@@ -53,7 +53,7 @@
       "latitude": 42.3,
       "longitude": 1.31
     },
-    "mapId": "020"
+    "mapId": null
   },
   {
     "name": "Angola",
@@ -1389,7 +1389,7 @@
       "latitude": 47.08,
       "longitude": 9.31
     },
-    "mapId": "438"
+    "mapId": null
   },
   {
     "name": "Lithuania",
@@ -1599,7 +1599,7 @@
       "latitude": 43.44,
       "longitude": 7.25
     },
-    "mapId": "492"
+    "mapId": null
   },
   {
     "name": "Mongolia",
