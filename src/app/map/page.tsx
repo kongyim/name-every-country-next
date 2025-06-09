@@ -1,6 +1,6 @@
 'use client'
 
-import { ComposableMap, ZoomableGroup, Geographies, Geography } from 'react-simple-maps'
+import { ComposableMap, ZoomableGroup, Geographies, Geography, Marker } from 'react-simple-maps'
 import type { Country } from '@/types/geography'
 import countries from '@/data/countries.json'
 import { useSearchParams, useRouter } from 'next/navigation'
@@ -11,7 +11,8 @@ import { Button } from '@/components/ui/button'
 import Image from 'next/image'
 import _ from 'lodash'
 
-const geoUrl = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'
+// const geoUrl = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'
+const geoUrl = '/data/countries-50m.json'
 
 export default function MapGame() {
   const searchParams = useSearchParams()
@@ -187,37 +188,57 @@ export default function MapGame() {
       <ComposableMap
         projection="geoEqualEarth"
         width={980}
-        height={520}
+        height={420}
         style={{ width: '100%', height: '100%' }}
       >
         <ZoomableGroup zoom={1} center={[0, 20]}>
           <Geographies geography={geoUrl}>
-            {({ geographies }: { geographies: any }) =>
-              geographies.map((geo: any) => {
-                const name = geo.properties.name
-                const country: Country = _.find(selectedCountries, { name })
-                const isCorrect = country && found.includes(_.toUpper(country.iso2))
-                const isLastCorrect = lastCorrect && country && lastCorrect.iso2 === country.iso2
-                return (
-                  <Geography
-                    key={geo.rsmKey}
-                    geography={geo}
-                    style={{
-                      default: {
-                        fill: isLastCorrect ? '#cccc00' : isCorrect ? '#2ecc71' : '#EEE',
-                        stroke: '#FFF',
-                        strokeWidth: 0.5,
-                        outline: 'none'
-                      },
-                      hover: {
-                        fill: isCorrect ? '#27ae60' : '#DDD',
-                        outline: 'none'
-                      }
-                    }}
-                  />
-                )
-              })
-            }
+            {({ geographies }: { geographies: any[] }) => {
+              return (
+                <>
+                  {/* Render shape for countries that have a mapId and match a region */}
+                  {geographies.map((geo) => {
+                    const id = geo.id
+                    const country = _.find(countries, { mapId: id })
+
+                    if (!country) return null
+
+                    const isCorrect = found.includes(_.toUpper(country.iso2))
+                    const isLastCorrect = lastCorrect && lastCorrect.iso2 === country.iso2
+
+                    return (
+                      <Geography
+                        key={geo.rsmKey}
+                        geography={geo}
+                        onClick={() => console.log(country)}
+                        style={{
+                          default: {
+                            fill: isLastCorrect ? '#cccc00' : isCorrect ? '#2ecc71' : '#aaa',
+                            stroke: '#FFF',
+                            strokeWidth: 0.2,
+                            outline: 'none'
+                          },
+                          hover: {
+                            fill: isCorrect ? '#27ae60' : '#DDD',
+                            outline: 'none'
+                          }
+                        }}
+                      />
+                    )
+                  })}
+
+                  {/* Render point for countries with no mapId */}
+                  {countries
+                    .filter((c) => !c.mapId)
+                    .map((c) => (
+                      <Marker key={c.name} coordinates={[c.longitude, c.latitude]}>
+                        <circle r={4} fill="#f00" stroke="#fff" strokeWidth={0.5} />
+                        <title>{c.name}</title>
+                      </Marker>
+                    ))}
+                </>
+              )
+            }}
           </Geographies>
         </ZoomableGroup>
       </ComposableMap>

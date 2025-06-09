@@ -10,7 +10,8 @@
       "name": "Kabul",
       "latitude": 34.31,
       "longitude": 69.11
-    }
+    },
+    "mapId": "004"
   },
   {
     "name": "Albania",
@@ -23,7 +24,8 @@
       "name": "Tirana",
       "latitude": 41.19,
       "longitude": 19.49
-    }
+    },
+    "mapId": "008"
   },
   {
     "name": "Algeria",
@@ -36,7 +38,8 @@
       "name": "Algiers",
       "latitude": 36.45,
       "longitude": 3.03
-    }
+    },
+    "mapId": "012"
   },
   {
     "name": "Andorra",
@@ -49,7 +52,8 @@
       "name": "Andorra la Vella",
       "latitude": 42.3,
       "longitude": 1.31
-    }
+    },
+    "mapId": "020"
   },
   {
     "name": "Angola",
@@ -62,7 +66,8 @@
       "name": "Luanda",
       "latitude": -8.5,
       "longitude": 13.14
-    }
+    },
+    "mapId": "024"
   },
   {
     "name": "Antigua and Barbuda",
@@ -75,7 +80,8 @@
       "name": "Saint John's",
       "latitude": 17.07,
       "longitude": -61.51
-    }
+    },
+    "mapId": "028"
   },
   {
     "name": "Argentina",
@@ -88,7 +94,8 @@
       "name": "Buenos Aires",
       "latitude": -34.36,
       "longitude": -58.4
-    }
+    },
+    "mapId": "032"
   },
   {
     "name": "Armenia",
@@ -101,7 +108,8 @@
       "name": "Yerevan",
       "latitude": 40.1,
       "longitude": 44.3
-    }
+    },
+    "mapId": "051"
   },
   {
     "name": "Australia",
@@ -114,7 +122,8 @@
       "name": "Canberra",
       "latitude": -35.17,
       "longitude": 149.13
-    }
+    },
+    "mapId": "036"
   },
   {
     "name": "Austria",
@@ -127,7 +136,8 @@
       "name": "Vienna",
       "latitude": 48.12,
       "longitude": 16.22
-    }
+    },
+    "mapId": "040"
   },
   {
     "name": "Azerbaijan",
@@ -140,7 +150,8 @@
       "name": "Baku",
       "latitude": 40.23,
       "longitude": 49.52
-    }
+    },
+    "mapId": "031"
   },
   {
     "name": "Bahamas",
@@ -153,7 +164,8 @@
       "name": "Nassau",
       "latitude": 25.05,
       "longitude": -77.21
-    }
+    },
+    "mapId": "044"
   },
   {
     "name": "Bahrain",
@@ -166,7 +178,8 @@
       "name": "Manama",
       "latitude": 26.14,
       "longitude": 50.34
-    }
+    },
+    "mapId": "048"
   },
   {
     "name": "Bangladesh",
@@ -179,7 +192,8 @@
       "name": "Dhaka",
       "latitude": 23.43,
       "longitude": 90.24
-    }
+    },
+    "mapId": "050"
   },
   {
     "name": "Barbados",
@@ -192,7 +206,8 @@
       "name": "Bridgetown",
       "latitude": 13.06,
       "longitude": -59.37
-    }
+    },
+    "mapId": "052"
   },
   {
     "name": "Belarus",
@@ -205,7 +220,8 @@
       "name": "Minsk",
       "latitude": 53.54,
       "longitude": 27.34
-    }
+    },
+    "mapId": "112"
   },
   {
     "name": "Belgium",
@@ -218,7 +234,8 @@
       "name": "Brussels",
       "latitude": 50.5,
       "longitude": 4.2
-    }
+    },
+    "mapId": "056"
   },
   {
     "name": "Belize",
@@ -231,7 +248,8 @@
       "name": "Belmopan",
       "latitude": 17.15,
       "longitude": -88.46
-    }
+    },
+    "mapId": "084"
   },
   {
     "name": "Benin",
@@ -244,7 +262,8 @@
       "name": "Porto-Novo",
       "latitude": 6.29,
       "longitude": 2.37
-    }
+    },
+    "mapId": "204"
   },
   {
     "name": "Bhutan",
@@ -257,7 +276,8 @@
       "name": "Thimphu",
       "latitude": 27.29,
       "longitude": 89.36
-    }
+    },
+    "mapId": "064"
   },
   {
     "name": "Bolivia",
@@ -270,7 +290,8 @@
       "name": "La Paz",
       "latitude": -16.3,
       "longitude": -68.09
-    }
+    },
+    "mapId": "068"
   },
   {
     "name": "Bosnia and Herzegovina",
@@ -283,7 +304,8 @@
       "name": "Sarajevo",
       "latitude": 43.52,
       "longitude": 18.25
-    }
+    },
+    "mapId": "070"
   },
   {
     "name": "Botswana",
@@ -296,7 +318,8 @@
       "name": "Gaborone",
       "latitude": -24.45,
       "longitude": 25.55
-    }
+    },
+    "mapId": "072"
   },
   {
     "name": "Brazil",
@@ -309,7 +332,8 @@
       "name": "Brasilia",
       "latitude": -15.47,
       "longitude": -47.55
-    }
+    },
+    "mapId": "076"
   },
   {
     "name": "Brunei",
@@ -322,7 +346,8 @@
       "name": "Bandar Seri Begawan",
       "latitude": 4.53,
       "longitude": 114.56
-    }
+    },
+    "mapId": "096"
   },
   {
     "name": "Bulgaria",
@@ -335,7 +360,8 @@
       "name": "Sofia",
       "latitude": 42.41,
       "longitude": 23.19
-    }
+    },
+    "mapId": "100"
   },
   {
     "name": "Burkina Faso",
@@ -348,7 +374,8 @@
       "name": "Ouagadougou",
       "latitude": 12.22,
       "longitude": -1.31
-    }
+    },
+    "mapId": "854"
   },
   {
     "name": "Burundi",
@@ -361,7 +388,8 @@
       "name": "Bujumbura",
       "latitude": -3.22,
       "longitude": 29.21
-    }
+    },
+    "mapId": "108"
   },
   {
     "name": "Cambodia",
@@ -374,7 +402,8 @@
       "name": "Phnom Penh",
       "latitude": 11.33,
       "longitude": 104.55
-    }
+    },
+    "mapId": "116"
   },
   {
     "name": "Cameroon",
@@ -387,7 +416,8 @@
       "name": "Yaounde",
       "latitude": 3.52,
       "longitude": 11.31
-    }
+    },
+    "mapId": "120"
   },
   {
     "name": "Canada",
@@ -400,7 +430,8 @@
       "name": "Ottawa",
       "latitude": 45.25,
       "longitude": -75.42
-    }
+    },
+    "mapId": "124"
   },
   {
     "name": "Cape Verde",
@@ -413,7 +444,8 @@
       "name": "Praia",
       "latitude": 14.55,
       "longitude": -23.31
-    }
+    },
+    "mapId": "132"
   },
   {
     "name": "Central African Republic",
@@ -426,7 +458,8 @@
       "name": "Bangui",
       "latitude": 4.22,
       "longitude": 18.35
-    }
+    },
+    "mapId": "140"
   },
   {
     "name": "Chad",
@@ -439,7 +472,8 @@
       "name": "N'Djamena",
       "latitude": 12.06,
       "longitude": 15.02
-    }
+    },
+    "mapId": "148"
   },
   {
     "name": "Chile",
@@ -452,7 +486,8 @@
       "name": "Santiago",
       "latitude": -33.27,
       "longitude": -70.4
-    }
+    },
+    "mapId": "152"
   },
   {
     "name": "China",
@@ -465,7 +500,8 @@
       "name": "Beijing",
       "latitude": 39.55,
       "longitude": 116.23
-    }
+    },
+    "mapId": "156"
   },
   {
     "name": "Colombia",
@@ -478,7 +514,8 @@
       "name": "Bogota",
       "latitude": 4.36,
       "longitude": -74.05
-    }
+    },
+    "mapId": "170"
   },
   {
     "name": "Comoros",
@@ -491,7 +528,8 @@
       "name": "Moroni",
       "latitude": -11.42,
       "longitude": 43.14
-    }
+    },
+    "mapId": "174"
   },
   {
     "name": "Congo",
@@ -504,7 +542,8 @@
       "name": "Brazzaville",
       "latitude": -4.15,
       "longitude": 15.17
-    }
+    },
+    "mapId": "178"
   },
   {
     "name": "Costa Rica",
@@ -517,7 +556,8 @@
       "name": "San Jose",
       "latitude": 9.56,
       "longitude": -84.05
-    }
+    },
+    "mapId": "188"
   },
   {
     "name": "Croatia",
@@ -530,7 +570,8 @@
       "name": "Zagreb",
       "latitude": 45.48,
       "longitude": 16
-    }
+    },
+    "mapId": "191"
   },
   {
     "name": "Cuba",
@@ -543,7 +584,8 @@
       "name": "Havana",
       "latitude": 23.07,
       "longitude": -82.21
-    }
+    },
+    "mapId": "192"
   },
   {
     "name": "Cyprus",
@@ -556,7 +598,8 @@
       "name": "Nicosia",
       "latitude": 35.1,
       "longitude": 33.22
-    }
+    },
+    "mapId": "196"
   },
   {
     "name": "Czechia",
@@ -569,7 +612,8 @@
       "name": "Prague",
       "latitude": 50.05,
       "longitude": 14.28
-    }
+    },
+    "mapId": "203"
   },
   {
     "name": "DRC",
@@ -583,7 +627,8 @@
       "name": "Kinshasa",
       "latitude": -4.19,
       "longitude": 15.18
-    }
+    },
+    "mapId": "180"
   },
   {
     "name": "Denmark",
@@ -596,7 +641,8 @@
       "name": "Copenhagen",
       "latitude": 55.4,
       "longitude": 12.35
-    }
+    },
+    "mapId": "208"
   },
   {
     "name": "Djibouti",
@@ -609,7 +655,8 @@
       "name": "Djibouti",
       "latitude": 11.35,
       "longitude": 43.09
-    }
+    },
+    "mapId": "262"
   },
   {
     "name": "Dominica",
@@ -622,7 +669,8 @@
       "name": "Roseau",
       "latitude": 15.18,
       "longitude": -61.24
-    }
+    },
+    "mapId": "212"
   },
   {
     "name": "Dominican Republic",
@@ -635,7 +683,8 @@
       "name": "Santo Domingo",
       "latitude": 18.28,
       "longitude": -69.54
-    }
+    },
+    "mapId": "214"
   },
   {
     "name": "Ecuador",
@@ -648,7 +697,8 @@
       "name": "Quito",
       "latitude": -0.13,
       "longitude": -78.3
-    }
+    },
+    "mapId": "218"
   },
   {
     "name": "Egypt",
@@ -661,7 +711,8 @@
       "name": "Cairo",
       "latitude": 30.03,
       "longitude": 31.15
-    }
+    },
+    "mapId": "818"
   },
   {
     "name": "El Salvador",
@@ -674,7 +725,8 @@
       "name": "San Salvador",
       "latitude": 13.42,
       "longitude": -89.12
-    }
+    },
+    "mapId": "222"
   },
   {
     "name": "Equatorial Guinea",
@@ -687,7 +739,8 @@
       "name": "Malabo",
       "latitude": 3.45,
       "longitude": 8.47
-    }
+    },
+    "mapId": "226"
   },
   {
     "name": "Eritrea",
@@ -700,7 +753,8 @@
       "name": "Asmara",
       "latitude": 15.2,
       "longitude": 38.56
-    }
+    },
+    "mapId": "232"
   },
   {
     "name": "Estonia",
@@ -713,7 +767,8 @@
       "name": "Tallinn",
       "latitude": 59.26,
       "longitude": 24.43
-    }
+    },
+    "mapId": "233"
   },
   {
     "name": "Eswatini",
@@ -726,7 +781,8 @@
       "name": "Mbabane",
       "latitude": -26.18,
       "longitude": 31.06
-    }
+    },
+    "mapId": "748"
   },
   {
     "name": "Ethiopia",
@@ -739,7 +795,8 @@
       "name": "Addis Ababa",
       "latitude": 9.02,
       "longitude": 38.42
-    }
+    },
+    "mapId": "231"
   },
   {
     "name": "Fiji",
@@ -752,7 +809,8 @@
       "name": "Suva",
       "latitude": -18.08,
       "longitude": 178.25
-    }
+    },
+    "mapId": "242"
   },
   {
     "name": "Finland",
@@ -765,7 +823,8 @@
       "name": "Helsinki",
       "latitude": 60.1,
       "longitude": 24.56
-    }
+    },
+    "mapId": "246"
   },
   {
     "name": "France",
@@ -778,7 +837,8 @@
       "name": "Paris",
       "latitude": 48.52,
       "longitude": 2.2
-    }
+    },
+    "mapId": "250"
   },
   {
     "name": "Gabon",
@@ -791,7 +851,8 @@
       "name": "Libreville",
       "latitude": 0.23,
       "longitude": 9.27
-    }
+    },
+    "mapId": "266"
   },
   {
     "name": "Gambia",
@@ -804,7 +865,8 @@
       "name": "Banjul",
       "latitude": 13.27,
       "longitude": -16.34
-    }
+    },
+    "mapId": "270"
   },
   {
     "name": "Georgia",
@@ -817,7 +879,8 @@
       "name": "T'bilisi",
       "latitude": 41.43,
       "longitude": 44.47
-    }
+    },
+    "mapId": "268"
   },
   {
     "name": "Germany",
@@ -830,7 +893,8 @@
       "name": "Berlin",
       "latitude": 52.31,
       "longitude": 13.24
-    }
+    },
+    "mapId": "276"
   },
   {
     "name": "Ghana",
@@ -843,7 +907,8 @@
       "name": "Accra",
       "latitude": 5.33,
       "longitude": -0.13
-    }
+    },
+    "mapId": "288"
   },
   {
     "name": "Greece",
@@ -856,7 +921,8 @@
       "name": "Athens",
       "latitude": 37.59,
       "longitude": 23.44
-    }
+    },
+    "mapId": "300"
   },
   {
     "name": "Grenada",
@@ -869,7 +935,8 @@
       "name": "Saint George's",
       "latitude": 12.03,
       "longitude": -61.45
-    }
+    },
+    "mapId": "308"
   },
   {
     "name": "Guatemala",
@@ -882,7 +949,8 @@
       "name": "Guatemala City",
       "latitude": 14.37,
       "longitude": -90.31
-    }
+    },
+    "mapId": "320"
   },
   {
     "name": "Guinea",
@@ -895,7 +963,8 @@
       "name": "Conakry",
       "latitude": 9.33,
       "longitude": -13.42
-    }
+    },
+    "mapId": "324"
   },
   {
     "name": "Guinea Bissau",
@@ -908,7 +977,8 @@
       "name": "Bissau",
       "latitude": 11.51,
       "longitude": -15.35
-    }
+    },
+    "mapId": "624"
   },
   {
     "name": "Guyana",
@@ -921,7 +991,8 @@
       "name": "Georgetown",
       "latitude": 6.48,
       "longitude": -58.1
-    }
+    },
+    "mapId": "328"
   },
   {
     "name": "Haiti",
@@ -934,7 +1005,8 @@
       "name": "Port-au-Prince",
       "latitude": 18.32,
       "longitude": -72.2
-    }
+    },
+    "mapId": "332"
   },
   {
     "name": "Honduras",
@@ -947,7 +1019,8 @@
       "name": "Tegucigalpa",
       "latitude": 14.06,
       "longitude": -87.13
-    }
+    },
+    "mapId": "340"
   },
   {
     "name": "Hungary",
@@ -960,7 +1033,8 @@
       "name": "Budapest",
       "latitude": 47.3,
       "longitude": 19.05
-    }
+    },
+    "mapId": "348"
   },
   {
     "name": "Iceland",
@@ -973,7 +1047,8 @@
       "name": "Reykjavik",
       "latitude": 64.09,
       "longitude": -21.57
-    }
+    },
+    "mapId": "352"
   },
   {
     "name": "India",
@@ -986,7 +1061,8 @@
       "name": "New Delhi",
       "latitude": 28.36,
       "longitude": 77.12
-    }
+    },
+    "mapId": "356"
   },
   {
     "name": "Indonesia",
@@ -999,7 +1075,8 @@
       "name": "Jakarta",
       "latitude": -6.1,
       "longitude": 106.49
-    }
+    },
+    "mapId": "360"
   },
   {
     "name": "Iran",
@@ -1012,7 +1089,8 @@
       "name": "Tehran",
       "latitude": 35.4,
       "longitude": 51.25
-    }
+    },
+    "mapId": "364"
   },
   {
     "name": "Iraq",
@@ -1025,7 +1103,8 @@
       "name": "Baghdad",
       "latitude": 33.2,
       "longitude": 44.23
-    }
+    },
+    "mapId": "368"
   },
   {
     "name": "Ireland",
@@ -1038,7 +1117,8 @@
       "name": "Dublin",
       "latitude": 53.19,
       "longitude": -6.14
-    }
+    },
+    "mapId": "372"
   },
   {
     "name": "Israel",
@@ -1051,7 +1131,8 @@
       "name": "Jerusalem",
       "latitude": 31.46,
       "longitude": 35.14
-    }
+    },
+    "mapId": "376"
   },
   {
     "name": "Italy",
@@ -1064,7 +1145,8 @@
       "name": "Rome",
       "latitude": 41.54,
       "longitude": 12.29
-    }
+    },
+    "mapId": "380"
   },
   {
     "name": "Ivory Coast",
@@ -1077,7 +1159,8 @@
       "name": "Yamoussoukro",
       "latitude": 6.49,
       "longitude": -5.17
-    }
+    },
+    "mapId": "384"
   },
   {
     "name": "Jamaica",
@@ -1090,7 +1173,8 @@
       "name": "Kingston",
       "latitude": 18,
       "longitude": -76.48
-    }
+    },
+    "mapId": "388"
   },
   {
     "name": "Japan",
@@ -1103,7 +1187,8 @@
       "name": "Tokyo",
       "latitude": 35.41,
       "longitude": 139.45
-    }
+    },
+    "mapId": "392"
   },
   {
     "name": "Jordan",
@@ -1116,7 +1201,8 @@
       "name": "Amman",
       "latitude": 31.57,
       "longitude": 35.56
-    }
+    },
+    "mapId": "400"
   },
   {
     "name": "Kazakhstan",
@@ -1129,7 +1215,8 @@
       "name": "Astana",
       "latitude": 51.1,
       "longitude": 71.25
-    }
+    },
+    "mapId": "398"
   },
   {
     "name": "Kenya",
@@ -1142,7 +1229,8 @@
       "name": "Nairobi",
       "latitude": -1.17,
       "longitude": 36.49
-    }
+    },
+    "mapId": "404"
   },
   {
     "name": "Kiribati",
@@ -1155,7 +1243,8 @@
       "name": "Tarawa",
       "latitude": 1.19,
       "longitude": 172.58
-    }
+    },
+    "mapId": "296"
   },
   {
     "name": "Kosovo",
@@ -1168,7 +1257,8 @@
       "name": "Pristina",
       "latitude": 42.6629,
       "longitude": 21.1655
-    }
+    },
+    "mapId": "kosovo"
   },
   {
     "name": "Kuwait",
@@ -1181,7 +1271,8 @@
       "name": "Kuwait City",
       "latitude": 29.22,
       "longitude": 47.58
-    }
+    },
+    "mapId": "414"
   },
   {
     "name": "Kyrgyzstan",
@@ -1194,7 +1285,8 @@
       "name": "Bishkek",
       "latitude": 42.52,
       "longitude": 74.36
-    }
+    },
+    "mapId": "417"
   },
   {
     "name": "Laos",
@@ -1207,7 +1299,8 @@
       "name": "Vientiane",
       "latitude": 17.58,
       "longitude": 102.36
-    }
+    },
+    "mapId": "418"
   },
   {
     "name": "Latvia",
@@ -1220,7 +1313,8 @@
       "name": "Riga",
       "latitude": 56.57,
       "longitude": 24.06
-    }
+    },
+    "mapId": "428"
   },
   {
     "name": "Lebanon",
@@ -1233,7 +1327,8 @@
       "name": "Beirut",
       "latitude": 33.52,
       "longitude": 35.3
-    }
+    },
+    "mapId": "422"
   },
   {
     "name": "Lesotho",
@@ -1246,7 +1341,8 @@
       "name": "Maseru",
       "latitude": -29.19,
       "longitude": 27.29
-    }
+    },
+    "mapId": "426"
   },
   {
     "name": "Liberia",
@@ -1259,7 +1355,8 @@
       "name": "Monrovia",
       "latitude": 6.18,
       "longitude": -10.48
-    }
+    },
+    "mapId": "430"
   },
   {
     "name": "Libya",
@@ -1272,7 +1369,8 @@
       "name": "Tripoli",
       "latitude": 32.53,
       "longitude": 13.1
-    }
+    },
+    "mapId": "434"
   },
   {
     "name": "Liechtenstein",
@@ -1285,7 +1383,8 @@
       "name": "Vaduz",
       "latitude": 47.08,
       "longitude": 9.31
-    }
+    },
+    "mapId": "438"
   },
   {
     "name": "Lithuania",
@@ -1298,7 +1397,8 @@
       "name": "Vilnius",
       "latitude": 54.41,
       "longitude": 25.19
-    }
+    },
+    "mapId": "440"
   },
   {
     "name": "Luxembourg",
@@ -1311,7 +1411,8 @@
       "name": "Luxembourg",
       "latitude": 49.36,
       "longitude": 6.07
-    }
+    },
+    "mapId": "442"
   },
   {
     "name": "Madagascar",
@@ -1324,7 +1425,8 @@
       "name": "Antananarivo",
       "latitude": -18.55,
       "longitude": 47.31
-    }
+    },
+    "mapId": "450"
   },
   {
     "name": "Malawi",
@@ -1337,7 +1439,8 @@
       "name": "Lilongwe",
       "latitude": -13.59,
       "longitude": 33.47
-    }
+    },
+    "mapId": "454"
   },
   {
     "name": "Malaysia",
@@ -1350,7 +1453,8 @@
       "name": "Kuala Lumpur",
       "latitude": 3.1,
       "longitude": 101.42
-    }
+    },
+    "mapId": "458"
   },
   {
     "name": "Maldives",
@@ -1363,7 +1467,8 @@
       "name": "Male",
       "latitude": 4.1,
       "longitude": 73.3
-    }
+    },
+    "mapId": "462"
   },
   {
     "name": "Mali",
@@ -1376,7 +1481,8 @@
       "name": "Bamako",
       "latitude": 12.39,
       "longitude": -8
-    }
+    },
+    "mapId": "466"
   },
   {
     "name": "Malta",
@@ -1389,7 +1495,8 @@
       "name": "Valletta",
       "latitude": 35.53,
       "longitude": 14.3
-    }
+    },
+    "mapId": "470"
   },
   {
     "name": "Marshall Islands",
@@ -1402,7 +1509,8 @@
       "name": "Majuro",
       "latitude": 7.06,
       "longitude": 171.23
-    }
+    },
+    "mapId": "584"
   },
   {
     "name": "Mauritania",
@@ -1415,7 +1523,8 @@
       "name": "Nouakchott",
       "latitude": 18.07,
       "longitude": -16.02
-    }
+    },
+    "mapId": "478"
   },
   {
     "name": "Mauritius",
@@ -1428,7 +1537,8 @@
       "name": "Port Louis",
       "latitude": -20.09,
       "longitude": 57.29
-    }
+    },
+    "mapId": "480"
   },
   {
     "name": "Mexico",
@@ -1441,7 +1551,8 @@
       "name": "Mexico City",
       "latitude": 19.26,
       "longitude": -99.08
-    }
+    },
+    "mapId": "484"
   },
   {
     "name": "Micronesia",
@@ -1454,7 +1565,8 @@
       "name": "Palikir",
       "latitude": 6.55,
       "longitude": 158.09
-    }
+    },
+    "mapId": "583"
   },
   {
     "name": "Moldova",
@@ -1467,7 +1579,8 @@
       "name": "Chisinau",
       "latitude": 47,
       "longitude": 28.51
-    }
+    },
+    "mapId": "498"
   },
   {
     "name": "Monaco",
@@ -1480,7 +1593,8 @@
       "name": "Monaco",
       "latitude": 43.44,
       "longitude": 7.25
-    }
+    },
+    "mapId": "492"
   },
   {
     "name": "Mongolia",
@@ -1493,7 +1607,8 @@
       "name": "Ulaanbaatar",
       "latitude": 47.55,
       "longitude": 106.55
-    }
+    },
+    "mapId": "496"
   },
   {
     "name": "Montenegro",
@@ -1506,7 +1621,8 @@
       "name": "Podgorica",
       "latitude": 42.26,
       "longitude": 19.16
-    }
+    },
+    "mapId": "499"
   },
   {
     "name": "Morocco",
@@ -1519,7 +1635,8 @@
       "name": "Rabat",
       "latitude": 34.01,
       "longitude": -6.49
-    }
+    },
+    "mapId": "504"
   },
   {
     "name": "Mozambique",
@@ -1532,7 +1649,8 @@
       "name": "Maputo",
       "latitude": -25.57,
       "longitude": 32.35
-    }
+    },
+    "mapId": "508"
   },
   {
     "name": "Myanmar",
@@ -1545,7 +1663,8 @@
       "name": "Rangoon",
       "latitude": 16.48,
       "longitude": 96.09
-    }
+    },
+    "mapId": "104"
   },
   {
     "name": "Namibia",
@@ -1558,7 +1677,8 @@
       "name": "Windhoek",
       "latitude": -22.34,
       "longitude": 17.05
-    }
+    },
+    "mapId": "516"
   },
   {
     "name": "Nauru",
@@ -1571,7 +1691,8 @@
       "name": "Yaren",
       "latitude": -0.5456,
       "longitude": 166.9157
-    }
+    },
+    "mapId": "520"
   },
   {
     "name": "Nepal",
@@ -1584,7 +1705,8 @@
       "name": "Kathmandu",
       "latitude": 27.43,
       "longitude": 85.19
-    }
+    },
+    "mapId": "524"
   },
   {
     "name": "Netherlands",
@@ -1597,7 +1719,8 @@
       "name": "Amsterdam",
       "latitude": 52.23,
       "longitude": 4.54
-    }
+    },
+    "mapId": "528"
   },
   {
     "name": "New Zealand",
@@ -1610,7 +1733,8 @@
       "name": "Wellington",
       "latitude": -41.28,
       "longitude": 174.51
-    }
+    },
+    "mapId": "554"
   },
   {
     "name": "Nicaragua",
@@ -1623,7 +1747,8 @@
       "name": "Managua",
       "latitude": 12.09,
       "longitude": -86.17
-    }
+    },
+    "mapId": "558"
   },
   {
     "name": "Niger",
@@ -1636,7 +1761,8 @@
       "name": "Niamey",
       "latitude": 13.31,
       "longitude": 2.07
-    }
+    },
+    "mapId": "562"
   },
   {
     "name": "Nigeria",
@@ -1649,7 +1775,8 @@
       "name": "Abuja",
       "latitude": 9.05,
       "longitude": 7.32
-    }
+    },
+    "mapId": "566"
   },
   {
     "name": "North Korea",
@@ -1662,7 +1789,8 @@
       "name": "Pyongyang",
       "latitude": 39.01,
       "longitude": 125.45
-    }
+    },
+    "mapId": "408"
   },
   {
     "name": "North Macedonia",
@@ -1675,7 +1803,8 @@
       "name": "Skopje",
       "latitude": 42,
       "longitude": 21.26
-    }
+    },
+    "mapId": "807"
   },
   {
     "name": "Norway",
@@ -1688,7 +1817,8 @@
       "name": "Oslo",
       "latitude": 59.55,
       "longitude": 10.45
-    }
+    },
+    "mapId": "578"
   },
   {
     "name": "Oman",
@@ -1701,7 +1831,8 @@
       "name": "Muscat",
       "latitude": 23.37,
       "longitude": 58.35
-    }
+    },
+    "mapId": "512"
   },
   {
     "name": "Pakistan",
@@ -1714,7 +1845,8 @@
       "name": "Islamabad",
       "latitude": 33.42,
       "longitude": 73.1
-    }
+    },
+    "mapId": "586"
   },
   {
     "name": "Palau",
@@ -1727,7 +1859,8 @@
       "name": "Melekeok",
       "latitude": 7.29,
       "longitude": 134.38
-    }
+    },
+    "mapId": "585"
   },
   {
     "name": "Palestine",
@@ -1740,7 +1873,8 @@
       "name": "Jerusalem",
       "latitude": 31.46,
       "longitude": 35.14
-    }
+    },
+    "mapId": "275"
   },
   {
     "name": "Panama",
@@ -1753,7 +1887,8 @@
       "name": "Panama City",
       "latitude": 8.58,
       "longitude": -79.32
-    }
+    },
+    "mapId": "591"
   },
   {
     "name": "Papua New Guinea",
@@ -1766,7 +1901,8 @@
       "name": "Port Moresby",
       "latitude": -9.3,
       "longitude": 147.1
-    }
+    },
+    "mapId": "598"
   },
   {
     "name": "Paraguay",
@@ -1779,7 +1915,8 @@
       "name": "Asuncion",
       "latitude": -25.16,
       "longitude": -57.4
-    }
+    },
+    "mapId": "600"
   },
   {
     "name": "Peru",
@@ -1792,7 +1929,8 @@
       "name": "Lima",
       "latitude": -12.03,
       "longitude": -77.03
-    }
+    },
+    "mapId": "604"
   },
   {
     "name": "Philippines",
@@ -1805,7 +1943,8 @@
       "name": "Manila",
       "latitude": 14.35,
       "longitude": 121
-    }
+    },
+    "mapId": "608"
   },
   {
     "name": "Poland",
@@ -1818,7 +1957,8 @@
       "name": "Warsaw",
       "latitude": 52.15,
       "longitude": 21
-    }
+    },
+    "mapId": "616"
   },
   {
     "name": "Portugal",
@@ -1831,7 +1971,8 @@
       "name": "Lisbon",
       "latitude": 38.43,
       "longitude": -9.08
-    }
+    },
+    "mapId": "620"
   },
   {
     "name": "Qatar",
@@ -1844,7 +1985,8 @@
       "name": "Doha",
       "latitude": 25.17,
       "longitude": 51.32
-    }
+    },
+    "mapId": "634"
   },
   {
     "name": "Romania",
@@ -1857,7 +1999,8 @@
       "name": "Bucharest",
       "latitude": 44.26,
       "longitude": 26.06
-    }
+    },
+    "mapId": "642"
   },
   {
     "name": "Russia",
@@ -1870,7 +2013,8 @@
       "name": "Moscow",
       "latitude": 55.45,
       "longitude": 37.35
-    }
+    },
+    "mapId": "643"
   },
   {
     "name": "Rwanda",
@@ -1883,7 +2027,8 @@
       "name": "Kigali",
       "latitude": -1.57,
       "longitude": 30.04
-    }
+    },
+    "mapId": "646"
   },
   {
     "name": "Samoa",
@@ -1896,7 +2041,8 @@
       "name": "Apia",
       "latitude": -13.5,
       "longitude": -171.44
-    }
+    },
+    "mapId": "882"
   },
   {
     "name": "San Marino",
@@ -1909,7 +2055,8 @@
       "name": "San Marino",
       "latitude": 43.56,
       "longitude": 12.25
-    }
+    },
+    "mapId": "674"
   },
   {
     "name": "Sao Tome and Principe",
@@ -1922,7 +2069,8 @@
       "name": "Sao Tome",
       "latitude": 0.12,
       "longitude": 6.39
-    }
+    },
+    "mapId": "678"
   },
   {
     "name": "Saudi Arabia",
@@ -1935,7 +2083,8 @@
       "name": "Riyadh",
       "latitude": 24.38,
       "longitude": 46.43
-    }
+    },
+    "mapId": "682"
   },
   {
     "name": "Senegal",
@@ -1948,7 +2097,8 @@
       "name": "Dakar",
       "latitude": 14.4,
       "longitude": -17.26
-    }
+    },
+    "mapId": "686"
   },
   {
     "name": "Serbia",
@@ -1961,7 +2111,8 @@
       "name": "Belgrade",
       "latitude": 44.5,
       "longitude": 20.3
-    }
+    },
+    "mapId": "688"
   },
   {
     "name": "Seychelles",
@@ -1974,7 +2125,8 @@
       "name": "Victoria",
       "latitude": -4.38,
       "longitude": 55.27
-    }
+    },
+    "mapId": "690"
   },
   {
     "name": "Sierra Leone",
@@ -1987,7 +2139,8 @@
       "name": "Freetown",
       "latitude": 8.3,
       "longitude": -13.15
-    }
+    },
+    "mapId": "694"
   },
   {
     "name": "Singapore",
@@ -2000,7 +2153,8 @@
       "name": "Singapore",
       "latitude": 1.17,
       "longitude": 103.51
-    }
+    },
+    "mapId": "702"
   },
   {
     "name": "Slovakia",
@@ -2013,7 +2167,8 @@
       "name": "Bratislava",
       "latitude": 48.09,
       "longitude": 17.07
-    }
+    },
+    "mapId": "703"
   },
   {
     "name": "Slovenia",
@@ -2026,7 +2181,8 @@
       "name": "Ljubljana",
       "latitude": 46.03,
       "longitude": 14.31
-    }
+    },
+    "mapId": "705"
   },
   {
     "name": "Solomon Islands",
@@ -2039,7 +2195,8 @@
       "name": "Honiara",
       "latitude": -9.26,
       "longitude": 159.57
-    }
+    },
+    "mapId": "090"
   },
   {
     "name": "Somalia",
@@ -2052,7 +2209,8 @@
       "name": "Mogadishu",
       "latitude": 2.04,
       "longitude": 45.22
-    }
+    },
+    "mapId": "706"
   },
   {
     "name": "South Africa",
@@ -2065,7 +2223,8 @@
       "name": "Pretoria",
       "latitude": -25.42,
       "longitude": 28.13
-    }
+    },
+    "mapId": "710"
   },
   {
     "name": "South Korea",
@@ -2078,7 +2237,8 @@
       "name": "Seoul",
       "latitude": 37.33,
       "longitude": 126.59
-    }
+    },
+    "mapId": "410"
   },
   {
     "name": "South Sudan",
@@ -2091,7 +2251,8 @@
       "name": "Juba",
       "latitude": 4.8539,
       "longitude": 31.5825
-    }
+    },
+    "mapId": "728"
   },
   {
     "name": "Spain",
@@ -2104,7 +2265,8 @@
       "name": "Madrid",
       "latitude": 40.24,
       "longitude": -3.41
-    }
+    },
+    "mapId": "724"
   },
   {
     "name": "Sri Lanka",
@@ -2117,7 +2279,8 @@
       "name": "Colombo",
       "latitude": 6.56,
       "longitude": 79.51
-    }
+    },
+    "mapId": "144"
   },
   {
     "name": "St Kitts and Nevis",
@@ -2131,7 +2294,8 @@
       "name": "Basseterre",
       "latitude": 17.18,
       "longitude": -62.43
-    }
+    },
+    "mapId": "659"
   },
   {
     "name": "St Lucia",
@@ -2145,7 +2309,8 @@
       "name": "Castries",
       "latitude": 14.01,
       "longitude": -61
-    }
+    },
+    "mapId": "662"
   },
   {
     "name": "St Vincent and the Grenadines",
@@ -2159,7 +2324,8 @@
       "name": "Kingstown",
       "latitude": 13.09,
       "longitude": -61.14
-    }
+    },
+    "mapId": "670"
   },
   {
     "name": "Sudan",
@@ -2172,7 +2338,8 @@
       "name": "Khartoum",
       "latitude": 15.36,
       "longitude": 32.32
-    }
+    },
+    "mapId": "729"
   },
   {
     "name": "Suriname",
@@ -2185,7 +2352,8 @@
       "name": "Paramaribo",
       "latitude": 5.5,
       "longitude": -55.1
-    }
+    },
+    "mapId": "740"
   },
   {
     "name": "Sweden",
@@ -2198,7 +2366,8 @@
       "name": "Stockholm",
       "latitude": 59.2,
       "longitude": 18.03
-    }
+    },
+    "mapId": "752"
   },
   {
     "name": "Switzerland",
@@ -2211,7 +2380,8 @@
       "name": "Bern",
       "latitude": 46.57,
       "longitude": 7.26
-    }
+    },
+    "mapId": "756"
   },
   {
     "name": "Syria",
@@ -2224,7 +2394,8 @@
       "name": "Damascus",
       "latitude": 33.3,
       "longitude": 36.18
-    }
+    },
+    "mapId": "760"
   },
   {
     "name": "Taiwan",
@@ -2237,7 +2408,8 @@
       "name": "Taipei",
       "latitude": 25.03,
       "longitude": 121.3
-    }
+    },
+    "mapId": "158"
   },
   {
     "name": "Tajikistan",
@@ -2250,7 +2422,8 @@
       "name": "Dushanbe",
       "latitude": 38.35,
       "longitude": 68.48
-    }
+    },
+    "mapId": "762"
   },
   {
     "name": "Tanzania",
@@ -2263,7 +2436,8 @@
       "name": "Dodoma",
       "latitude": -6.48,
       "longitude": 39.17
-    }
+    },
+    "mapId": "834"
   },
   {
     "name": "Thailand",
@@ -2276,7 +2450,8 @@
       "name": "Bangkok",
       "latitude": 13.45,
       "longitude": 100.31
-    }
+    },
+    "mapId": "764"
   },
   {
     "name": "Timor-Leste",
@@ -2289,7 +2464,8 @@
       "name": "Dili",
       "latitude": -8.35,
       "longitude": 125.36
-    }
+    },
+    "mapId": "626"
   },
   {
     "name": "Togo",
@@ -2302,7 +2478,8 @@
       "name": "Lome",
       "latitude": 6.08,
       "longitude": 1.13
-    }
+    },
+    "mapId": "768"
   },
   {
     "name": "Tonga",
@@ -2315,7 +2492,8 @@
       "name": "Nuku'alofa",
       "latitude": -21.08,
       "longitude": -175.12
-    }
+    },
+    "mapId": "776"
   },
   {
     "name": "Trinidad and Tobago",
@@ -2328,7 +2506,8 @@
       "name": "Port-of-Spain",
       "latitude": 10.39,
       "longitude": -61.31
-    }
+    },
+    "mapId": "780"
   },
   {
     "name": "Tunisia",
@@ -2341,7 +2520,8 @@
       "name": "Tunis",
       "latitude": 36.48,
       "longitude": 10.11
-    }
+    },
+    "mapId": "788"
   },
   {
     "name": "Turkey",
@@ -2354,7 +2534,8 @@
       "name": "Ankara",
       "latitude": 39.56,
       "longitude": 32.52
-    }
+    },
+    "mapId": "792"
   },
   {
     "name": "Turkmenistan",
@@ -2367,7 +2548,8 @@
       "name": "Ashgabat",
       "latitude": 37.57,
       "longitude": 58.23
-    }
+    },
+    "mapId": "795"
   },
   {
     "name": "Tuvalu",
@@ -2380,7 +2562,8 @@
       "name": "Funafuti",
       "latitude": -8.3,
       "longitude": 179.12
-    }
+    },
+    "mapId": null
   },
   {
     "name": "UAE",
@@ -2394,7 +2577,8 @@
       "name": "Abu Dhabi",
       "latitude": 24.28,
       "longitude": 54.22
-    }
+    },
+    "mapId": "784"
   },
   {
     "name": "UK",
@@ -2408,7 +2592,8 @@
       "name": "London",
       "latitude": 51.3,
       "longitude": -0.1
-    }
+    },
+    "mapId": "826"
   },
   {
     "name": "USA",
@@ -2422,7 +2607,8 @@
       "name": "Washington, DC",
       "latitude": 38.53,
       "longitude": -77.02
-    }
+    },
+    "mapId": "840"
   },
   {
     "name": "Uganda",
@@ -2435,7 +2621,8 @@
       "name": "Kampala",
       "latitude": 0.19,
       "longitude": 32.25
-    }
+    },
+    "mapId": "800"
   },
   {
     "name": "Ukraine",
@@ -2448,7 +2635,8 @@
       "name": "Kiew",
       "latitude": 50.441,
       "longitude": 30.554
-    }
+    },
+    "mapId": "804"
   },
   {
     "name": "Uruguay",
@@ -2461,7 +2649,8 @@
       "name": "Montevideo",
       "latitude": -34.53,
       "longitude": -56.11
-    }
+    },
+    "mapId": "858"
   },
   {
     "name": "Uzbekistan",
@@ -2474,7 +2663,8 @@
       "name": "Tashkent",
       "latitude": 41.2,
       "longitude": 69.18
-    }
+    },
+    "mapId": "860"
   },
   {
     "name": "Vanuatu",
@@ -2487,7 +2677,8 @@
       "name": "Port-Vila",
       "latitude": -17.44,
       "longitude": 168.19
-    }
+    },
+    "mapId": "548"
   },
   {
     "name": "Vatican City",
@@ -2500,7 +2691,8 @@
       "name": "Vatican City",
       "latitude": 41.54,
       "longitude": 12.27
-    }
+    },
+    "mapId": "336"
   },
   {
     "name": "Venezuela",
@@ -2513,7 +2705,8 @@
       "name": "Caracas",
       "latitude": 10.3,
       "longitude": -66.56
-    }
+    },
+    "mapId": "862"
   },
   {
     "name": "Vietnam",
@@ -2526,7 +2719,8 @@
       "name": "Hanoi",
       "latitude": 21.02,
       "longitude": 105.51
-    }
+    },
+    "mapId": "704"
   },
   {
     "name": "Yemen",
@@ -2539,7 +2733,8 @@
       "name": "Sanaa",
       "latitude": 15.21,
       "longitude": 44.12
-    }
+    },
+    "mapId": "887"
   },
   {
     "name": "Zambia",
@@ -2552,7 +2747,8 @@
       "name": "Lusaka",
       "latitude": -15.25,
       "longitude": 28.17
-    }
+    },
+    "mapId": "894"
   },
   {
     "name": "Zimbabwe",
@@ -2565,6 +2761,7 @@
       "name": "Harare",
       "latitude": -17.5,
       "longitude": 31.03
-    }
+    },
+    "mapId": "716"
   }
 ]
