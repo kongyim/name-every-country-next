@@ -16,6 +16,8 @@ const geoUrl = '/data/countries-50m.json'
 
 export default function MapGame() {
   const searchParams = useSearchParams()
+  const [mapCenter, setMapCenter] = useState<[number, number]>([0, 20])
+  const [mapZoom, setMapZoom] = useState<number>(1)
   const router = useRouter()
   const [found, setFound] = useState<string[]>([])
   const [startTime, setStartTime] = useState<number>(Date.now())
@@ -31,6 +33,7 @@ export default function MapGame() {
 
   const inputRef = useRef<HTMLInputElement | null>(null)
   const timerRef = useRef<NodeJS.Timeout | null>(null)
+  const animationRef = useRef<number | null>(null)
 
   useEffect(() => {
     timerRef.current = setInterval(() => {
@@ -57,6 +60,35 @@ export default function MapGame() {
     setShowError(false)
   }, [regions])
 
+  const animatePanZoom = (
+    fromCenter: [number, number],
+    toCenter: [number, number],
+    fromZoom: number,
+    toZoom: number,
+    duration = 400
+  ) => {
+    const start = performance.now()
+
+    const step = (timestamp: number) => {
+      const progress = Math.min((timestamp - start) / duration, 1)
+
+      const interpolate = (start: number, end: number) => start + (end - start) * progress
+
+      setMapCenter([
+        interpolate(fromCenter[0], toCenter[0]),
+        interpolate(fromCenter[1], toCenter[1])
+      ])
+      setMapZoom(interpolate(fromZoom, toZoom))
+
+      if (progress < 1) {
+        animationRef.current = requestAnimationFrame(step)
+      }
+    }
+
+    if (animationRef.current) cancelAnimationFrame(animationRef.current)
+    animationRef.current = requestAnimationFrame(step)
+  }
+
   const normalize = (str: string) => str.toLowerCase().replace(/[^a-z0-9]/gi, '')
 
   const handleInputChange = (value: string) => {
@@ -73,6 +105,17 @@ export default function MapGame() {
       )
 
       if (matched) {
+        if (matched.latitude && matched.longitude) {
+          // setMapCenter([matched.longitude, matched.latitude])
+          // setMapZoom(3) // You can adjust zoom level for better focus
+          animatePanZoom(
+            mapCenter,
+            [matched.longitude, matched.latitude],
+            mapZoom,
+            matched.zoom || 6 // Zoom level target
+          )
+        }
+
         if (!found.includes(matched.iso2)) {
           setFound((prev) => [...prev, matched.iso2])
         }
@@ -191,7 +234,14 @@ export default function MapGame() {
         height={420}
         style={{ width: '100%', height: '100%' }}
       >
-        <ZoomableGroup zoom={1} center={[0, 20]}>
+        <ZoomableGroup
+          center={mapCenter}
+          zoom={mapZoom}
+          onMoveEnd={({ coordinates, zoom }) => {
+            setMapCenter(coordinates)
+            setMapZoom(zoom)
+          }}
+        >
           <Geographies geography={geoUrl}>
             {({ geographies }: { geographies: any[] }) => {
               return (
@@ -201,7 +251,27 @@ export default function MapGame() {
                     const id = geo.id
                     const country = _.find(countries, { mapId: id })
 
-                    if (!country) return null
+                    if (!country) {
+                      return (
+                        <Geography
+                          key={geo.rsmKey}
+                          geography={geo}
+                          onClick={() => console.log(_.get(geo, 'properties.name'))}
+                          style={{
+                            default: {
+                              fill: '#000',
+                              stroke: '#FFF',
+                              strokeWidth: 0.2,
+                              outline: 'none'
+                            },
+                            hover: {
+                              fill: '#000',
+                              outline: 'none'
+                            }
+                          }}
+                        />
+                      )
+                    }
 
                     const isCorrect = found.includes(_.toUpper(country.iso2))
                     const isLastCorrect = lastCorrect && lastCorrect.iso2 === country.iso2
@@ -230,12 +300,21 @@ export default function MapGame() {
                   {/* Render point for countries with no mapId */}
                   {countries
                     .filter((c) => !c.mapId)
-                    .map((c) => (
-                      <Marker key={c.name} coordinates={[c.longitude, c.latitude]}>
-                        <circle r={4} fill="#f00" stroke="#fff" strokeWidth={0.5} />
-                        <title>{c.name}</title>
-                      </Marker>
-                    ))}
+                    .map((c) => {
+                      const isCorrect = found.includes(_.toUpper(c.iso2))
+                      const isLastCorrect = lastCorrect && lastCorrect.iso2 === c.iso2
+                      return (
+                        <Marker key={c.name} coordinates={[c.longitude, c.latitude]}>
+                          <circle
+                            r={1}
+                            fill={isLastCorrect ? '#cccc00' : isCorrect ? '#2ecc71' : '#aaa'}
+                            stroke="#fff"
+                            strokeWidth={0.1}
+                          />
+                          <title>{c.name}</title>
+                        </Marker>
+                      )
+                    })}
                 </>
               )
             }}

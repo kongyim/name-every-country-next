@@ -123,7 +123,8 @@
       "latitude": -35.17,
       "longitude": 149.13
     },
-    "mapId": "036"
+    "mapId": "036",
+    "zoom": 3
   },
   {
     "name": "Austria",
@@ -333,7 +334,8 @@
       "latitude": -15.47,
       "longitude": -47.55
     },
-    "mapId": "076"
+    "mapId": "076",
+    "zoom": 3
   },
   {
     "name": "Brunei",
@@ -431,7 +433,8 @@
       "latitude": 45.25,
       "longitude": -75.42
     },
-    "mapId": "124"
+    "mapId": "124",
+    "zoom": 3
   },
   {
     "name": "Cape Verde",
@@ -501,7 +504,8 @@
       "latitude": 39.55,
       "longitude": 116.23
     },
-    "mapId": "156"
+    "mapId": "156",
+    "zoom": 3
   },
   {
     "name": "Colombia",
@@ -1062,7 +1066,8 @@
       "latitude": 28.36,
       "longitude": 77.12
     },
-    "mapId": "356"
+    "mapId": "356",
+    "zoom": 3
   },
   {
     "name": "Indonesia",
@@ -1510,7 +1515,7 @@
       "latitude": 7.06,
       "longitude": 171.23
     },
-    "mapId": "584"
+    "mapId": null
   },
   {
     "name": "Mauritania",
@@ -1860,7 +1865,7 @@
       "latitude": 7.29,
       "longitude": 134.38
     },
-    "mapId": "585"
+    "mapId": null
   },
   {
     "name": "Palestine",
@@ -2014,7 +2019,8 @@
       "latitude": 55.45,
       "longitude": 37.35
     },
-    "mapId": "643"
+    "mapId": "643",
+    "zoom": 3
   },
   {
     "name": "Rwanda",
@@ -2056,7 +2062,7 @@
       "latitude": 43.56,
       "longitude": 12.25
     },
-    "mapId": "674"
+    "mapId": null
   },
   {
     "name": "Sao Tome and Principe",
@@ -2608,7 +2614,8 @@
       "latitude": 38.53,
       "longitude": -77.02
     },
-    "mapId": "840"
+    "mapId": "840",
+    "zoom": 3
   },
   {
     "name": "Uganda",
@@ -2692,7 +2699,7 @@
       "latitude": 41.54,
       "longitude": 12.27
     },
-    "mapId": "336"
+    "mapId": null
   },
   {
     "name": "Venezuela",
