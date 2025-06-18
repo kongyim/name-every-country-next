@@ -81,7 +81,7 @@
       "latitude": 17.07,
       "longitude": -61.51
     },
-    "mapIds": null
+    "mapIds": ["028"]
   },
   {
     "name": "Argentina",
@@ -180,7 +180,7 @@
       "latitude": 26.14,
       "longitude": 50.34
     },
-    "mapIds": null
+    "mapIds": ["048"]
   },
   {
     "name": "Bangladesh",
@@ -208,7 +208,7 @@
       "latitude": 13.06,
       "longitude": -59.37
     },
-    "mapIds": null
+    "mapIds": ["052"]
   },
   {
     "name": "Belarus",
@@ -476,8 +476,7 @@
       "latitude": 12.06,
       "longitude": 15.02
     },
-    "mapIds": ["148"],
-    "zoom": 3
+    "mapIds": ["148"]
   },
   {
     "name": "Chile",
@@ -491,8 +490,7 @@
       "latitude": -33.27,
       "longitude": -70.4
     },
-    "mapIds": ["152"],
-    "zoom": 2
+    "mapIds": ["152"]
   },
   {
     "name": "China",
@@ -521,8 +519,7 @@
       "latitude": 4.36,
       "longitude": -74.05
     },
-    "mapIds": ["170"],
-    "zoom": 3
+    "mapIds": ["170"]
   },
   {
     "name": "Comoros",
@@ -536,7 +533,7 @@
       "latitude": -11.42,
       "longitude": 43.14
     },
-    "mapIds": null
+    "mapIds": ["174"]
   },
   {
     "name": "Congo",
@@ -677,7 +674,7 @@
       "latitude": 15.18,
       "longitude": -61.24
     },
-    "mapIds": null
+    "mapIds": ["212"]
   },
   {
     "name": "Dominican Republic",
@@ -719,8 +716,7 @@
       "latitude": 30.03,
       "longitude": 31.15
     },
-    "mapIds": ["818"],
-    "zoom": 3
+    "mapIds": ["818"]
   },
   {
     "name": "El Salvador",
@@ -1071,7 +1067,7 @@
       "longitude": 77.12
     },
     "mapIds": ["356", "Siachen Glacier"],
-    "zoom": 2
+    "zoom": 3
   },
   {
     "name": "Indonesia",
@@ -1099,8 +1095,7 @@
       "latitude": 35.4,
       "longitude": 51.25
     },
-    "mapIds": ["364"],
-    "zoom": 3
+    "mapIds": ["364"]
   },
   {
     "name": "Iraq",
@@ -1198,8 +1193,7 @@
       "latitude": 35.41,
       "longitude": 139.45
     },
-    "mapIds": ["392"],
-    "zoom": 3
+    "mapIds": ["392"]
   },
   {
     "name": "Jordan",
@@ -1227,8 +1221,7 @@
       "latitude": 51.1,
       "longitude": 71.25
     },
-    "mapIds": ["398"],
-    "zoom": 3
+    "mapIds": ["398"]
   },
   {
     "name": "Kenya",
@@ -1256,7 +1249,7 @@
       "latitude": 1.19,
       "longitude": 172.58
     },
-    "mapIds": null
+    "mapIds": ["296"]
   },
   {
     "name": "Kosovo",
@@ -1382,8 +1375,7 @@
       "latitude": 32.53,
       "longitude": 13.1
     },
-    "mapIds": ["434"],
-    "zoom": 3
+    "mapIds": ["434"]
   },
   {
     "name": "Liechtenstein",
@@ -1439,8 +1431,7 @@
       "latitude": -18.55,
       "longitude": 47.31
     },
-    "mapIds": ["450"],
-    "zoom": 3
+    "mapIds": ["450"]
   },
   {
     "name": "Malawi",
@@ -1482,7 +1473,7 @@
       "latitude": 4.1,
       "longitude": 73.3
     },
-    "mapIds": null
+    "mapIds": ["462"]
   },
   {
     "name": "Mali",
@@ -1510,7 +1501,7 @@
       "latitude": 35.53,
       "longitude": 14.3
     },
-    "mapIds": null
+    "mapIds": ["470"]
   },
   {
     "name": "Marshall Islands",
@@ -1538,8 +1529,7 @@
       "latitude": 18.07,
       "longitude": -16.02
     },
-    "mapIds": ["478"],
-    "zoom": 3
+    "mapIds": ["478"]
   },
   {
     "name": "Mauritius",
@@ -1553,7 +1543,7 @@
       "latitude": -20.09,
       "longitude": 57.29
     },
-    "mapIds": null
+    "mapIds": ["480"]
   },
   {
     "name": "Mexico",
@@ -1581,7 +1571,7 @@
       "latitude": 6.55,
       "longitude": 158.09
     },
-    "mapIds": null
+    "mapIds": ["583"]
   },
   {
     "name": "Moldova",
@@ -1623,8 +1613,7 @@
       "latitude": 47.55,
       "longitude": 106.55
     },
-    "mapIds": ["496"],
-    "zoom": 3
+    "mapIds": ["496"]
   },
   {
     "name": "Montenegro",
@@ -1666,8 +1655,7 @@
       "latitude": -25.57,
       "longitude": 32.35
     },
-    "mapIds": ["508"],
-    "zoom": 3
+    "mapIds": ["508"]
   },
   {
     "name": "Myanmar",
@@ -1681,8 +1669,7 @@
       "latitude": 16.48,
       "longitude": 96.09
     },
-    "mapIds": ["104"],
-    "zoom": 3
+    "mapIds": ["104"]
   },
   {
     "name": "Namibia",
@@ -1696,8 +1683,7 @@
       "latitude": -22.34,
       "longitude": 17.05
     },
-    "mapIds": ["516"],
-    "zoom": 3
+    "mapIds": ["516"]
   },
   {
     "name": "Nauru",
@@ -1711,7 +1697,7 @@
       "latitude": -0.5456,
       "longitude": 166.9157
     },
-    "mapIds": null
+    "mapIds": ["520"]
   },
   {
     "name": "Nepal",
@@ -1725,8 +1711,7 @@
       "latitude": 27.43,
       "longitude": 85.19
     },
-    "mapIds": ["524"],
-    "zoom": 3
+    "mapIds": ["524"]
   },
   {
     "name": "Netherlands",
@@ -1754,8 +1739,7 @@
       "latitude": -41.28,
       "longitude": 174.51
     },
-    "mapIds": ["554"],
-    "zoom": 3
+    "mapIds": ["554"]
   },
   {
     "name": "Nicaragua",
@@ -1769,8 +1753,7 @@
       "latitude": 12.09,
       "longitude": -86.17
     },
-    "mapIds": ["558"],
-    "zoom": 3
+    "mapIds": ["558"]
   },
   {
     "name": "Niger",
@@ -1784,8 +1767,7 @@
       "latitude": 13.31,
       "longitude": 2.07
     },
-    "mapIds": ["562"],
-    "zoom": 3
+    "mapIds": ["562"]
   },
   {
     "name": "Nigeria",
@@ -1799,8 +1781,7 @@
       "latitude": 9.05,
       "longitude": 7.32
     },
-    "mapIds": ["566"],
-    "zoom": 3
+    "mapIds": ["566"]
   },
   {
     "name": "North Korea",
@@ -1926,8 +1907,7 @@
       "latitude": -9.3,
       "longitude": 147.1
     },
-    "mapIds": ["598"],
-    "zoom": 3
+    "mapIds": ["598"]
   },
   {
     "name": "Paraguay",
@@ -1941,8 +1921,7 @@
       "latitude": -25.16,
       "longitude": -57.4
     },
-    "mapIds": ["600"],
-    "zoom": 3
+    "mapIds": ["600"]
   },
   {
     "name": "Peru",
@@ -1956,8 +1935,7 @@
       "latitude": -12.03,
       "longitude": -77.03
     },
-    "mapIds": ["604"],
-    "zoom": 3
+    "mapIds": ["604"]
   },
   {
     "name": "Philippines",
@@ -1971,8 +1949,7 @@
       "latitude": 14.35,
       "longitude": 121
     },
-    "mapIds": ["608"],
-    "zoom": 3
+    "mapIds": ["608"]
   },
   {
     "name": "Poland",
@@ -2071,7 +2048,7 @@
       "latitude": -13.5,
       "longitude": -171.44
     },
-    "mapIds": null
+    "mapIds": ["882"]
   },
   {
     "name": "San Marino",
@@ -2099,7 +2076,7 @@
       "latitude": 0.12,
       "longitude": 6.39
     },
-    "mapIds": null
+    "mapIds": ["678"]
   },
   {
     "name": "Saudi Arabia",
@@ -2113,8 +2090,7 @@
       "latitude": 24.38,
       "longitude": 46.43
     },
-    "mapIds": ["682"],
-    "zoom": 3
+    "mapIds": ["682"]
   },
   {
     "name": "Senegal",
@@ -2156,7 +2132,7 @@
       "latitude": -4.38,
       "longitude": 55.27
     },
-    "mapIds": null
+    "mapIds": ["690"]
   },
   {
     "name": "Sierra Leone",
@@ -2184,7 +2160,7 @@
       "latitude": 1.17,
       "longitude": 103.51
     },
-    "mapIds": null
+    "mapIds": ["702"]
   },
   {
     "name": "Slovakia",
@@ -2240,8 +2216,7 @@
       "latitude": 2.04,
       "longitude": 45.22
     },
-    "mapIds": ["706", "Somaliland"],
-    "zoom": 3
+    "mapIds": ["706", "Somaliland"]
   },
   {
     "name": "South Africa",
@@ -2255,8 +2230,7 @@
       "latitude": -25.42,
       "longitude": 28.13
     },
-    "mapIds": ["710"],
-    "zoom": 3
+    "mapIds": ["710"]
   },
   {
     "name": "South Korea",
@@ -2284,8 +2258,7 @@
       "latitude": 4.8539,
       "longitude": 31.5825
     },
-    "mapIds": ["728"],
-    "zoom": 3
+    "mapIds": ["728"]
   },
   {
     "name": "Spain",
@@ -2313,8 +2286,7 @@
       "latitude": 6.56,
       "longitude": 79.51
     },
-    "mapIds": ["144"],
-    "zoom": 3
+    "mapIds": ["144"]
   },
   {
     "name": "St Kitts and Nevis",
@@ -2329,7 +2301,7 @@
       "latitude": 17.18,
       "longitude": -62.43
     },
-    "mapIds": null
+    "mapIds": ["659"]
   },
   {
     "name": "St Lucia",
@@ -2344,7 +2316,7 @@
       "latitude": 14.01,
       "longitude": -61
     },
-    "mapIds": null
+    "mapIds": ["662"]
   },
   {
     "name": "St Vincent and the Grenadines",
@@ -2373,8 +2345,7 @@
       "latitude": 15.36,
       "longitude": 32.32
     },
-    "mapIds": ["729"],
-    "zoom": 3
+    "mapIds": ["729"]
   },
   {
     "name": "Suriname",
@@ -2402,8 +2373,7 @@
       "latitude": 59.2,
       "longitude": 18.03
     },
-    "mapIds": ["752"],
-    "zoom": 3
+    "mapIds": ["752"]
   },
   {
     "name": "Switzerland",
@@ -2473,8 +2443,7 @@
       "latitude": -6.48,
       "longitude": 39.17
     },
-    "mapIds": ["834"],
-    "zoom": 3
+    "mapIds": ["834"]
   },
   {
     "name": "Thailand",
@@ -2488,8 +2457,7 @@
       "latitude": 13.45,
       "longitude": 100.31
     },
-    "mapIds": ["764"],
-    "zoom": 3
+    "mapIds": ["764"]
   },
   {
     "name": "Timor-Leste",
@@ -2517,8 +2485,7 @@
       "latitude": 6.08,
       "longitude": 1.13
     },
-    "mapIds": ["768"],
-    "zoom": 3
+    "mapIds": ["768"]
   },
   {
     "name": "Tonga",
@@ -2560,8 +2527,7 @@
       "latitude": 36.48,
       "longitude": 10.11
     },
-    "mapIds": ["788"],
-    "zoom": 3
+    "mapIds": ["788"]
   },
   {
     "name": "Turkey",
@@ -2575,8 +2541,7 @@
       "latitude": 39.56,
       "longitude": 32.52
     },
-    "mapIds": ["792"],
-    "zoom": 3
+    "mapIds": ["792"]
   },
   {
     "name": "Turkmenistan",
@@ -2590,8 +2555,7 @@
       "latitude": 37.57,
       "longitude": 58.23
     },
-    "mapIds": ["795"],
-    "zoom": 3
+    "mapIds": ["795"]
   },
   {
     "name": "Tuvalu",
@@ -2635,8 +2599,7 @@
       "latitude": 51.3,
       "longitude": -0.1
     },
-    "mapIds": ["826", "833"],
-    "zoom": 3
+    "mapIds": ["826"]
   },
   {
     "name": "USA",
@@ -2652,7 +2615,7 @@
       "longitude": -77.02
     },
     "mapIds": ["840", "630"],
-    "zoom": 1.5
+    "zoom": 3
   },
   {
     "name": "Uganda",
@@ -2666,8 +2629,7 @@
       "latitude": 0.19,
       "longitude": 32.25
     },
-    "mapIds": ["800"],
-    "zoom": 3
+    "mapIds": ["800"]
   },
   {
     "name": "Ukraine",
@@ -2681,8 +2643,7 @@
       "latitude": 50.441,
       "longitude": 30.554
     },
-    "mapIds": ["804"],
-    "zoom": 3
+    "mapIds": ["804"]
   },
   {
     "name": "Uruguay",
@@ -2696,8 +2657,7 @@
       "latitude": -34.53,
       "longitude": -56.11
     },
-    "mapIds": ["858"],
-    "zoom": 3
+    "mapIds": ["858"]
   },
   {
     "name": "Uzbekistan",
@@ -2711,8 +2671,7 @@
       "latitude": 41.2,
       "longitude": 69.18
     },
-    "mapIds": ["860"],
-    "zoom": 3
+    "mapIds": ["860"]
   },
   {
     "name": "Vanuatu",
@@ -2754,8 +2713,7 @@
       "latitude": 10.3,
       "longitude": -66.56
     },
-    "mapIds": ["862"],
-    "zoom": 3
+    "mapIds": ["862"]
   },
   {
     "name": "Vietnam",
@@ -2769,8 +2727,7 @@
       "latitude": 21.02,
       "longitude": 105.51
     },
-    "mapIds": ["704"],
-    "zoom": 3
+    "mapIds": ["704"]
   },
   {
     "name": "Yemen",
@@ -2784,8 +2741,7 @@
       "latitude": 15.21,
       "longitude": 44.12
     },
-    "mapIds": ["887"],
-    "zoom": 3
+    "mapIds": ["887"]
   },
   {
     "name": "Zambia",
@@ -2799,8 +2755,7 @@
       "latitude": -15.25,
       "longitude": 28.17
     },
-    "mapIds": ["894"],
-    "zoom": 3
+    "mapIds": ["894"]
   },
   {
     "name": "Zimbabwe",
@@ -2814,7 +2769,6 @@
       "latitude": -17.5,
       "longitude": 31.03
     },
-    "mapIds": ["716"],
-    "zoom": 3
+    "mapIds": ["716"]
   }
 ]

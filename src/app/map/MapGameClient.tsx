@@ -106,7 +106,7 @@ export default function MapGameClient() {
       )
 
       if (matched) {
-        if (matched.latitude && matched.longitude) {
+        if (_.isNumber(matched.latitude) && _.isNumber(matched.longitude)) {
           // setMapCenter([matched.longitude, matched.latitude])
           // setMapZoom(3) // You can adjust zoom level for better focus
           animatePanZoom(
