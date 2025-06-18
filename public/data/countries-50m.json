@@ -523,6 +523,7 @@
         {
           "type": "Polygon",
           "arcs": [[-443, 444, 445, 446]],
+          "id": "Somaliland",
           "properties": { "name": "Somaliland" }
         },
         {
@@ -1881,7 +1882,12 @@
           "id": "203",
           "properties": { "name": "Czechia" }
         },
-        { "type": "Polygon", "arcs": [[1449, 1450]], "properties": { "name": "N. Cyprus" } },
+        {
+          "type": "Polygon",
+          "arcs": [[1449, 1450]],
+          "id": "N. Cyprus",
+          "properties": { "name": "N. Cyprus" }
+        },
         {
           "type": "Polygon",
           "arcs": [[-1450, 1451]],
@@ -2498,6 +2504,7 @@
         {
           "type": "Polygon",
           "arcs": [[-756, -1510, -1185]],
+          "id": "Siachen Glacier",
           "properties": { "name": "Siachen Glacier" }
         },
         {

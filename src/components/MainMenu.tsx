@@ -69,7 +69,7 @@ export default function MainMenuClient({
         setSelectedRegions(regions)
       }
     }
-  }, [])
+  }, [regions])
 
   const updateSelectedRegion = (value: string[]) => {
     localStorage.setItem('selectedRegions', JSON.stringify(value))

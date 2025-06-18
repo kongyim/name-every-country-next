@@ -5,7 +5,9 @@ export type Country = {
   iso3: string
   latitude: number
   longitude: number
-  zoom: number | undefined
+  zoom?: number | undefined
+  speak?: string
+  mapId?: string[]
   capital: {
     name: string
     latitude: number
