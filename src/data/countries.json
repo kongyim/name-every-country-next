@@ -39,7 +39,8 @@
       "latitude": 36.45,
       "longitude": 3.03
     },
-    "mapIds": ["012"]
+    "mapIds": ["012"],
+    "zoom": 3
   },
   {
     "name": "Andorra",
@@ -67,7 +68,8 @@
       "latitude": -8.5,
       "longitude": 13.14
     },
-    "mapIds": ["024"]
+    "mapIds": ["024"],
+    "zoom": 3
   },
   {
     "name": "Antigua and Barbuda",
@@ -95,7 +97,8 @@
       "latitude": -34.36,
       "longitude": -58.4
     },
-    "mapIds": ["032", "238"]
+    "mapIds": ["032", "238"],
+    "zoom": 2
   },
   {
     "name": "Armenia",
@@ -335,7 +338,7 @@
       "longitude": -47.55
     },
     "mapIds": ["076"],
-    "zoom": 3
+    "zoom": 2
   },
   {
     "name": "Brunei",
@@ -434,7 +437,7 @@
       "longitude": -75.42
     },
     "mapIds": ["124"],
-    "zoom": 3
+    "zoom": 1.5
   },
   {
     "name": "Cape Verde",
@@ -635,7 +638,8 @@
       "latitude": -4.19,
       "longitude": 15.18
     },
-    "mapIds": ["180"]
+    "mapIds": ["180"],
+    "zoom": 3
   },
   {
     "name": "Denmark",
@@ -649,7 +653,8 @@
       "latitude": 55.4,
       "longitude": 12.35
     },
-    "mapIds": ["208", "304", "234"]
+    "mapIds": ["208", "304", "234"],
+    "zoom": 2
   },
   {
     "name": "Djibouti",
@@ -1567,7 +1572,8 @@
       "latitude": 19.26,
       "longitude": -99.08
     },
-    "mapIds": ["484"]
+    "mapIds": ["484"],
+    "zoom": 1.5
   },
   {
     "name": "Micronesia",
@@ -1652,7 +1658,8 @@
       "latitude": 34.01,
       "longitude": -6.49
     },
-    "mapIds": ["504", "732"]
+    "mapIds": ["504", "732"],
+    "zoom": 3
   },
   {
     "name": "Mozambique",
