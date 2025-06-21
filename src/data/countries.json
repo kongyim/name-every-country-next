@@ -295,7 +295,8 @@
       "latitude": -16.3,
       "longitude": -68.09
     },
-    "mapIds": ["068"]
+    "mapIds": ["068"],
+    "zoom": 3
   },
   {
     "name": "Bosnia and Herzegovina",
@@ -710,7 +711,8 @@
       "latitude": -0.13,
       "longitude": -78.3
     },
-    "mapIds": ["218"]
+    "mapIds": ["218"],
+    "zoom": 3
   },
   {
     "name": "Egypt",
@@ -948,8 +950,7 @@
       "name": "Saint George's",
       "latitude": 12.03,
       "longitude": -61.45
-    },
-    "mapIds": ["308"]
+    }
   },
   {
     "name": "Guatemala",
@@ -2365,8 +2366,7 @@
       "name": "Kingstown",
       "latitude": 13.09,
       "longitude": -61.14
-    },
-    "mapIds": ["670"]
+    }
   },
   {
     "name": "Sudan",
@@ -2636,7 +2636,7 @@
     "latitude": 54,
     "longitude": -2,
     "speak": "U.K.",
-    "regions": ["Europe"],
+    "regions": ["Europe", "Test"],
     "capital": {
       "name": "London",
       "latitude": 51.3,
